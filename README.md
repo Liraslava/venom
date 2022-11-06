@@ -1,8 +1,8 @@
 # venom - учебный проект Glo Academy
-## Проект выполнила: Лираслава
+## Проект выполнила: IndiFFerence
 
 В проекте используются:
 - HTML
 - CSS
-- JacaScript
+- JavaScript
 - Normalize
